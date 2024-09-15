@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Cat Facts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="some_text">some text</string>
+    <string name="click_here_if_you_like_it">Click here, if you like it</string>
+    <string name="cat_image">Cat Image</string>
+</resources>
